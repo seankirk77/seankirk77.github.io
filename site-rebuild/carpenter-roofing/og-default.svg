@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#F5F2EC" fill-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#16181B"/>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+  <rect x="80" y="96" width="56" height="4" fill="#B4512A"/>
+  <text x="156" y="104" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#F5F2EC" fill-opacity="0.6">LUBBOCK, TX · SOUTH PLAINS</text>
+  <text x="80" y="300" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="88" font-weight="900" letter-spacing="-3" fill="#FFFFFF">Careful work.</text>
+  <text x="80" y="400" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="88" font-weight="900" letter-spacing="-3" fill="#FFFFFF">Clear prices.</text>
+  <text x="80" y="480" font-family="Georgia, serif" font-style="italic" font-size="52" fill="#E39168">Close to home.</text>
+  <rect x="0" y="590" width="1200" height="40" fill="#B4512A"/>
+</svg>
